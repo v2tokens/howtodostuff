@@ -73,4 +73,18 @@ Press `ctrl-b` once and then `d`.
 
 ## Screen-1
 
+### Run It
+
+```bash
+cd /Users/lottelouise/screen-1
+make
+```
+
 ## Screen-2
+
+### Run It
+
+```bash
+cd /Users/v2admin/Documents/screen-2
+make
+```
