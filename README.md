@@ -17,7 +17,7 @@
 > **Important: The ticker raspberry pi needs to be connected to the same Wifi as the computer you are SSH-ing from.**
 
 ```bash
-ssh -p 12345 lotte@ticker
+ssh -p 12345 -o PreferredAuthentications=password -o PubkeyAuthentication=no lotte@ticker
 ```
 
 ### Restart ticker program
