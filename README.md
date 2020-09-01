@@ -1,5 +1,14 @@
 # How To Do Stuff
 
+## General
+
+### Turn off the pis
+
+```bash
+sudo -i
+shutdown now
+```
+
 ## Ticker
 
 ### SSH to ticker
